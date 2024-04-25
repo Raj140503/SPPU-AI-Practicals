@@ -1,1 +1,1 @@
-# SPPU-AI-Practicals
+# SPPU TE AI Practicals
